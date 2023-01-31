@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gokul2k03
 - 👀 I’m interested in web development and android development 
-- 🌱 I’m currently learning on MongoDB
+- 🌱 I’m currently learning on NodeJS
 - 💞️ I’m looking to collaborate on OpenSource Project
 - 📫 How to reach me 2003gokulmohan@gmail.com
 
